@@ -1,0 +1,11 @@
+/* ────────────────────────────────────────────────────────────
+ * Custom Theme for SwayOSD
+ * Made with Omarchist
+ * ────────────────────────────────────────────────────────────
+ */
+
+@define-color background-color #121111;
+@define-color border-color #35332d;
+@define-color label #b4b4b4;
+@define-color image #dcfce7;
+@define-color progress #86efab;
