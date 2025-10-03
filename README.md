@@ -5,7 +5,7 @@
 
 ## TODOS
 - [ ] use lutgen to create more bgs
-- [ ] Previews 
+- [x] Preview
 - [ ] complete other terminals UI 
 - [ ] finish vscode theme
 - [ ] include color palette + desc
@@ -33,6 +33,13 @@ omarchy-theme-install https://github.com/Ahmad-Mtr/omarchy-temerald-theme
 - SwayOSD (swayosd.css)
 - Desktop Background `backgrounds/`
 
+
+## Credits 
+- Customized the Theme via [Omarchist](https://github.com/tahayvr/omarchist)
+- Took some Inspiration from [Poimanders](https://github.com/drcmda/poimandres-theme) 
+- Modifying Wallpapers to match theme with [lutgen-rs](https://github.com/ozwaldorf/lutgen-rs) 
+
+- 
 
 ## License
 MIT
