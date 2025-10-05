@@ -18,6 +18,18 @@ To install on Omarchy:
 omarchy-theme-install https://github.com/Ahmad-Mtr/omarchy-temerald-theme
 ```
 
+## Wallpapers
+- psst, I have a [personal wallpapers repo](https://github.com/Ahmad-Mtr/wallpapers) that has both Temerald & Catppuccin wallpapers, almost all edited with [Lutgen](https://github.com/ozwaldorf/lutgen-rs) 
+- I've included only 5 Walls in `backgrounds/`, add more on your own
+- Hald clut image is included, incase you want to edit other images to use Temerald, instructions below
+
+### Make your own Wallpapers
+- requires lutgen installed
+
+```bash
+lutgen apply --hald-clut temerald-hald-clut-v2.png <list-of-wallpapers-to-be-edited>
+```
+
 
 
 ## Included configs
@@ -31,13 +43,13 @@ omarchy-theme-install https://github.com/Ahmad-Mtr/omarchy-temerald-theme
 - Wofi (wofi.css)
 - Walker (walker.css)
 - SwayOSD (swayosd.css)
-- Desktop Background `backgrounds/`
+
 
 
 ## Credits 
 - Customized the Theme via [Omarchist](https://github.com/tahayvr/omarchist)
 - Took some Inspiration from [Poimanders](https://github.com/drcmda/poimandres-theme) 
-- Modifying Wallpapers to match theme with [lutgen-rs](https://github.com/ozwaldorf/lutgen-rs) 
+- Modifying Wallpapers to match theme with [lutgen](https://github.com/ozwaldorf/lutgen-rs) 
 
 - 
 
