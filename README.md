@@ -4,7 +4,7 @@
 
 
 ## TODOS
-- [ ] use lutgen to create more bgs
+- [x] use lutgen to create more bgs
 - [x] Preview
 - [ ] complete other terminals UI 
 - [ ] finish vscode theme
